@@ -1,5 +1,3 @@
-Here's a comprehensive README template for your Spring Boot microservices-based skill-learning platform. Feel free to customize it as your project evolves!
-
 ---
 
 # Skill Learning Platform
